@@ -24,9 +24,7 @@ class MyMath {                                      // 1. 클래스 생성.     
         return a + b;                               // 한줄로 표현.
     }
     long max(long a, long b) {
-        long result = 0;                            // 작업값을 담을 변수 선언.
-        result = a > b ? a : b;                     // 삼항 연산자.
-        return result;
+         return  a > b ? a : b;                     // 삼항 연산자.
 
 //        if(a<b) {
 //            result = a;
