@@ -9,8 +9,9 @@ public class AbstractClassPrac {
         // 추상클래스
 
 //        Camera camera = new Camera();
-
-        FactoryCam factoryCam = new FactoryCam();
+        // 다형성 활용 가능
+        Camera factoryCam = new FactoryCam();
+//        FactoryCam factoryCam = new FactoryCam();
         factoryCam.showMainFeature();
 
         SpeedCam speedCam = new SpeedCam();
