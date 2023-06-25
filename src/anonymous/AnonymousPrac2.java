@@ -1,4 +1,4 @@
-package anoymous;
+package anonymous;
 
 public class AnonymousPrac2 {
     public static void main(String[] args) {

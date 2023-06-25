@@ -1,7 +1,7 @@
 # JAVA-study
 ### Index
 - [AbstractClass](https://github.com/seunGit/JAVA-study/tree/main/src/abstractClass)
-- [Anoymous](https://github.com/seunGit/JAVA-study/tree/main/src/anoymous)
+- [Anonymous](https://github.com/seunGit/JAVA-study/tree/main/src/anonymous)
 - [Array](https://github.com/seunGit/JAVA-study/tree/main/src/array)
 - [ArrayList](https://github.com/seunGit/JAVA-study/tree/main/src/arrayList)
 - [LinkedList](https://github.com/seunGit/JAVA-study/tree/main/src/linkedList)
@@ -14,3 +14,4 @@
 - [Set](https://github.com/seunGit/JAVA-study/tree/main/src/set)
 - [Thread](https://github.com/seunGit/JAVA-study/tree/main/src/thread)
 - [Try catch](https://github.com/seunGit/JAVA-study/tree/main/src/trycatch)
+- [Method](https://github.com/seunGit/JAVA-study/tree/main/src/method)
